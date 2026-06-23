@@ -1,26 +1,30 @@
-## Hi, I'm Netsysn
+<div align="center">
 
-运维开发 / 全栈向 / 网课脚本维护者
+## Netsysn
+
+运维开发 · 全栈向 · Linux 日常玩家
+
+</div>
 
 ### 技术栈
 
-- **后端**: Node.js, Express, C/C++
-- **前端**: Vue 2/3, Element Plus
-- **运维**: Linux (Ubuntu), Nginx, Docker, Cloudflare Tunnel, systemd
-- **其他**: Git, GitHub Actions, Shell
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### 项目
+<div align="center">
 
-| 项目 | 说明 |
-|------|------|
-| [userscripts](https://github.com/Netsysn/userscripts) | 超星学习通/智慧树网课助手，基于 OCS 二次开发，自建题库驱动 |
-| [server-dashboard](https://github.com/Netsysn/server-dashboard) | 服务器资源监控面板 |
-| [MAO-DIE-Player](https://github.com/Netsysn/MAO-DIE-Player) | 耄耋音乐播放器 |
-| [shopping](https://github.com/Netsysn/shopping) | Vue 2.x 商城项目 |
-| [encipher_class](https://github.com/Netsysn/encipher_class) | C++ 密码学程序 |
-| [docker_save_shell](https://github.com/Netsysn/docker_save_shell) | Docker 镜像保存/导出脚本 |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Netsysn&show_icons=true&theme=default&hide_title=true&hide_border=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netsysn&layout=compact&hide_border=true&theme=default" />
 
-### 联系
+---
 
-- Blog / 站点: [netsysn.cn](https://netsysn.cn)
-- 邮箱: [i@netsysn.cn](mailto:i@netsysn.cn)
+[netsysn.cn](https://netsysn.cn) · [i@netsysn.cn](mailto:i@netsysn.cn)
+
+</div>
