@@ -21,11 +21,11 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Netsysn&show_icons=true&theme=default&hide_title=true&hide_border=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netsysn&layout=compact&hide_border=true&theme=default" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=Netsysn&show_icons=true&theme=default&hide_title=true&hide_border=true&include_all_commits=true" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Netsysn&layout=compact&hide_border=true&theme=default" />
 
 ---
 
-[netsysn.cn](https://netsysn.cn) · [i@netsysn.cn](mailto:i@netsysn.cn)
+[netsysn.cn](https://netsysn.cn) · [netsysn@163.com](mailto:netsysn@163.com)
 
 </div>
